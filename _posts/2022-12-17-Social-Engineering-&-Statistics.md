@@ -86,7 +86,7 @@ Having tons of commercial security solutions in market available organizations c
 
 </pre>
 
-> **But for Home Network we'll be having complete implementation tutorial on CyberTab of various Open Source tools available for free to protect your network.**
+**But for Home Network we'll be having complete implementation tutorial on CyberTab of various Open Source tools available for free to protect your network.**
 
 Till then stay vigilant and don't fall into any Cyber Trap.
 

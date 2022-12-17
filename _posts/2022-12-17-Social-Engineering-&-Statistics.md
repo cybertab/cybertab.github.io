@@ -11,7 +11,6 @@ Cyber crime is a growing concern in today's digital age, and social engineering 
 
 According to a report by the FBI, social engineering was the leading method used in cyber crime incidents in 2019, accounting for over half of all reported incidents. This includes tactics such as phishing, pretexting, baiting, and scareware, which all rely on manipulating the victim's emotions or trust in order to gain access to sensitive information or systems.
 
-### Social Manipulation
 
 ![Baiting](/assets/images/2022-12-17-Social-Engineering-&-Statistics/Baiting.png)
 _Social Engineering_
@@ -34,6 +33,9 @@ There are many different types of social engineering attacks, and they can take 
 
 + **Physical coercion:** This involves physically forcing the victim to divulge sensitive information or take a certain action.
 
+![attack cycle](/assets/images/2022-12-17-Social-Engineering-&-Statistics/attack-cycle.png)
+_Attack Cycle_
+
 # Cases of Social Engineering Attacks:
 
 1. A high-profile cyber crime that was carried out using social engineering tactics is the **2017 Equifax data breach.** In this case, attackers exploited a weakness in the company's website software to gain access to the personal data of **147 million people.** The attackers used phishing emails to trick Equifax employees into revealing their login credentials, which allowed the attackers to gain access to the company's systems and steal the sensitive data.
@@ -43,6 +45,10 @@ There are many different types of social engineering attacks, and they can take 
 3. Another example of a social engineering attack by email is the phishing attack that targeted **Google and other tech companies in 2010.** In this case, the attackers sent phishing emails to employees at the companies, purporting to be from the HR department and requesting that the employees update their personal information. The emails included a link that, when clicked, took the employees to a fake website where they were prompted to enter their login credentials. The attackers were able to steal the login credentials of more than 30 employees at Google and other tech companies, **allowing them to gain access to the companies' systems and steal sensitive data.**
 
 This attack highlights the importance of being cautious when receiving emails requesting personal information or login credentials, and the need to verify the authenticity of such requests before responding.
+
+![Social Engineering Statistics](/assets/images/2022-12-17-Social-Engineering-&-Statistics/Social-Engineering-Statistics.png)
+_Attack Breakdown_
+
 
 # Psychological stress as a catalyst to Attacks. 
 

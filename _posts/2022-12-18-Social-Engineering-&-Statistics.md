@@ -1,6 +1,6 @@
 ---
 title: Psychological Manipulation and Social Engineering Attacks
-date: 2022-12-17 02:30:00 +0400
+date: 2022-12-18 02:30:00 +0400
 categories: [cybersecurity, attacks]
 tags: [socialengineering, psychologicalmanipulation, attacktypes]
 ---

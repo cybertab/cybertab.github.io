@@ -14,5 +14,5 @@ One Tab: This website is all about it. All the Cybersecurity & Information secur
 <br/>
 For more information you can check the social media icons at the bottom left.
 <br/>
-For author relatedinformation every post has a author name at the top of their post feel free to click and connect on linkedin.
+For author related information every post has a author name at the top of their post feel free to click and connect on linkedin.
 

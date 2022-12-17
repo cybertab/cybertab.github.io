@@ -11,6 +11,10 @@ Cyber crime is a growing concern in today's digital age, and social engineering 
 
 According to a report by the FBI, social engineering was the leading method used in cyber crime incidents in 2019, accounting for over half of all reported incidents. This includes tactics such as phishing, pretexting, baiting, and scareware, which all rely on manipulating the victim's emotions or trust in order to gain access to sensitive information or systems.
 
+### Social Manipulation
+
+![Baiting](/assets/images/2022-12-17-Social-Engineering-&-Statistics/Baiting.png)
+_Social Engineering_
 
 ## Social Engineering & Attack Types:
 

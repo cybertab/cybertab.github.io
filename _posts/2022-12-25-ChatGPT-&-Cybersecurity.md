@@ -15,6 +15,9 @@ However, GPT is not directly related to cybersecurity. While machine learning an
 That being said, machine learning and artificial intelligence can still play a role in cybersecurity. For example, machine learning algorithms can be used to analyze patterns in network traffic to identify potential threats and anomalies, and artificial intelligence can be used to analyze large amounts of data to identify patterns that may indicate a security breach.
 In summary, while GPT is not directly related to cybersecurity, it is a powerful tool for natural language processing tasks that can be used in conjunction with other technologies to help improve cybersecurity.
 
+![ChatGPTImage](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage.png)
+_ChatGPT_
+
 ## Malware Analysis use case:
 
 It has a very efficent use case in malware analysis aswell. While GPT is not specifically designed for malware analysis, it is possible to use machine learning and artificial intelligence, including GPT, to assist with malware analysis. Here are a few examples of how this could be done:
@@ -32,10 +35,7 @@ It has a very efficent use case in malware analysis aswell. While GPT is not spe
 </pre>
 # **DISCLAIMER: ChatGPT should only be used for educational purposes. It is not intended to be used for any illegitimate activities. The content of this website is for educational purposes only and does not support any illegitimate activities. Users of this website are solely responsible for their actions and should use ChatGPT only for lawful and ethical purposes.**
 
-![ChatGPTImage](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage.png)
-_ChatGPT_
 <pre>
-
 
 </pre>
 

@@ -5,14 +5,13 @@ categories: [cybersecurity, ChatGPT]
 tags: [chatgpt, openai, phishingemailgenerate, maliciouspayload]
 ---
 
-
 # ChatGPT & Cybersecurity
 
 GPT (Generative Pre-training Transformer) is a machine learning model developed by OpenAI that has been used for a wide range of natural language processing tasks. It has been particularly successful at generating human-like text, which has led to its use in chatbots and other applications that involve generating human-like responses.
 
 However, GPT is not directly related to cybersecurity. While machine learning and artificial intelligence can be used to help improve cybersecurity, they are generally not the primary focus of GPT. Instead, GPT is primarily used for tasks such as language translation, language generation, and text summarization.
 
-![ChatGPTImage](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage.png)
+![ChatGPTImage2](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage2.png)
 _ChatGPT_
 
 That being said, machine learning and artificial intelligence can still play a role in cybersecurity. For example, machine learning algorithms can be used to analyze patterns in network traffic to identify potential threats and anomalies, and artificial intelligence can be used to analyze large amounts of data to identify patterns that may indicate a security breach.

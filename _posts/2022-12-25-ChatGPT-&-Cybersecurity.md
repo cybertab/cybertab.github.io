@@ -12,11 +12,13 @@ GPT (Generative Pre-training Transformer) is a machine learning model developed 
 
 However, GPT is not directly related to cybersecurity. While machine learning and artificial intelligence can be used to help improve cybersecurity, they are generally not the primary focus of GPT. Instead, GPT is primarily used for tasks such as language translation, language generation, and text summarization.
 
+![ChatGPTImage](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage.png)
+_ChatGPT_
+
 That being said, machine learning and artificial intelligence can still play a role in cybersecurity. For example, machine learning algorithms can be used to analyze patterns in network traffic to identify potential threats and anomalies, and artificial intelligence can be used to analyze large amounts of data to identify patterns that may indicate a security breach.
 In summary, while GPT is not directly related to cybersecurity, it is a powerful tool for natural language processing tasks that can be used in conjunction with other technologies to help improve cybersecurity.
 
-![ChatGPTImage](/assets/images/2022-12-25-ChatGPT-%26-Cybersecurity/ChatGPTImage.png)
-_ChatGPT_
+
 
 ## Malware Analysis use case:
 
@@ -33,7 +35,7 @@ It has a very efficent use case in malware analysis aswell. While GPT is not spe
 <pre>
 
 </pre>
-# **DISCLAIMER: ChatGPT should only be used for educational purposes. It is not intended to be used for any illegitimate activities. The content of this website is for educational purposes only and does not support any illegitimate activities. Users of this website are solely responsible for their actions and should use ChatGPT only for lawful and ethical purposes.**
+## **DISCLAIMER: ChatGPT should only be used for educational purposes. It is not intended to be used for any illegitimate activities. The content of this website is for educational purposes only and does not support any illegitimate activities. Users of this website are solely responsible for their actions and should use ChatGPT only for lawful and ethical purposes.**
 
 <pre>
 

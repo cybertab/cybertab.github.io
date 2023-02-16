@@ -2,7 +2,7 @@
 title: Unpacking Ransomware -The Anatomy of a Malicious Attack
 date: 2023-02-16 20:00:00 +0400
 categories: [cybersecurity, Ransomware]
-tags: [ransomeware, rasomwarecycle, ransomwaregenerate, securityevasion]
+tags: [ransomeware, rasomwarecycle, ransomwaregenerate, securityevasion, securitycontrols]
 ---
 
 # Ransomware & Its Entry points
@@ -12,7 +12,6 @@ Ransomware is a type of malicious software that encrypts a victim's files. The a
 ![Ransomawareimage](/assets/images/2023-02-16-Ransomware-%26-Its-Entry-points/R1.png)
 
 <pre>
-
 </pre>
 
 **Possible entry points from where a ransomware can enter into an organization:**

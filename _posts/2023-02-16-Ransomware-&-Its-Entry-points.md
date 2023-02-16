@@ -1,5 +1,5 @@
 ---
-title: Unpacking Ransomware-The Anatomy of a Malicious Attack
+title: Unpacking Ransomware -The Anatomy of a Malicious Attack
 date: 2023-02-16 20:00:00 +0400
 categories: [cybersecurity, Ransomware]
 tags: [ransomeware, rasomwarecycle, ransomwaregenerate, securityevasion]
@@ -8,6 +8,12 @@ tags: [ransomeware, rasomwarecycle, ransomwaregenerate, securityevasion]
 # Ransomware & Its Entry points
 
 Ransomware is a type of malicious software that encrypts a victim's files. The attackers then demand a ransom from the victim to restore access to the files, usually paid in cryptocurrency. The attackers threaten to permanently block access to the encrypted files if the ransom is not paid. Ransomware attacks can cause significant disruption and financial loss to individuals and organizations. It is important to regularly backup important data and keep software up-to-date to reduce the risk of a ransomware attack.
+
+![R1](/assets/images/2023-02-16-Ransomware-%26-Its-Entry-points/R1.png
+
+<pre>
+
+</pre>
 
 **Possible entry points from where a ransomware can enter into an organization:**
 
@@ -22,7 +28,6 @@ Ransomware is a type of malicious software that encrypts a victim's files. The a
 <pre>
 
 </pre>
-
 
 ## Ransomware family:
 

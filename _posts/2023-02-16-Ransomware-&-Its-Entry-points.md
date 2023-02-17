@@ -1,7 +1,7 @@
 ---
 title: Unpacking Ransomware -The Anatomy of a Malicious Attack
 date: 2023-02-16 20:00:00 +0400
-categories: [cybersecurity, Ransomware]
+categories: [cybersecurity, ransomware]
 tags: [ransomeware, rasomwarecycle, ransomwaregenerate, securityevasion, securitycontrols]
 ---
 
